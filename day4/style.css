@@ -1,0 +1,67 @@
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    position: relative
+}
+div{
+    
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: rgb(251, 244, 237);
+    padding-left: 4%;
+    padding-right: 10%;
+    
+  padding-top: 3%;
+    border-top: 3px;
+    border-color: rgb(16, 16, 16);
+   border-top-style: solid;
+   border-bottom-style: solid;
+   border-top-color: aqua;
+   margin-top: 6%;
+   border-bottom-color:aqua ;
+   border-top-width: 10px;
+   border-bottom-width: 10px;
+   
+   
+   
+    
+
+}
+h2{
+    text-align: center;
+    
+    
+    
+}
+img{
+    height: 70px;
+    width: 70px;
+    margin-right: 2%;
+    margin-bottom: 0;
+    
+}
+
+h1{
+    display: inline;
+    color: rgba(10, 110, 110, 0.664);
+    font-size:larger;
+}
+button{
+   
+    position: fixed;
+    left: 90%;
+    padding: 2px;
+
+    
+}
+.ab{
+    font-family: 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+}
+h3{
+    margin-top: 0;
+}
